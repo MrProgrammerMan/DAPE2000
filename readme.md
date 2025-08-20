@@ -1,5 +1,5 @@
-# DAPE2000 Matematikk 2000 med Statistikk
-Dette repoet inneholder notater til faget DAPE2000 Matematikk 2000 med Statistikk. Notatene er skrevet i markdown, med innslag av LaTeX. Notatene er ment å åpnes i Zettlr, som støtter de interne linkene brukt i filene.
+# DAPE2000 Matematikk 2000 med Statistikk (MATTE)
+Dette repoet inneholder notater til mattedelen av faget DAPE2000 Matematikk 2000 med Statistikk. Notatene er skrevet i markdown, med innslag av LaTeX. Notatene er ment å åpnes i Zettlr, som støtter de interne linkene brukt i filene.
 
 ## Metodikk
 Notatene er organisert som en [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten). Dette er et forsøk på å skrive mer organiserte notater som er lettere å lese gjennom.
